@@ -5,4 +5,4 @@
 ![GitHub Repo Stars](https://img.shields.io/github/stars/BinaryDex/ProfileCustomizer?color=yellow&label=Stars&logo=github&style=flat) 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/BinaryDex/ProfileCustomizer?label=Size&logo=github&style=flat)
 
-<img align="left" src="https://img.shields.io/github/issues/BinaryDex/ProfileCustomizer?label=Issues&logo=github&style=flat">
+<img align="center" src="https://img.shields.io/github/issues/BinaryDex/ProfileCustomizer?label=Issues&logo=github&style=flat">
