@@ -6,5 +6,5 @@
   <img src="https://img.shields.io/github/stars/BinaryDex/DiscordBugs?color=yellow&label=Stars&logo=github&style=flat">
   <img src="https://img.shields.io/github/repo-size/BinaryDex/DiscordBugs?label=Size&logo=github&style=flat">
 </p>
-# a
+# all
 test
