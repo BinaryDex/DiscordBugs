@@ -1,2 +1,1 @@
-# DiscordBugs
-A list of some discord bugs to use!
+![Discord Bugs Banner](Images/DiscordBugsBanner.png)
